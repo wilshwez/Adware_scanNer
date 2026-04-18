@@ -70,6 +70,10 @@ pip install psutil requests cryptography
 python adware_scanner.py
 ```
 
+## Screenshot
+
+![Scanner Menu](image.png)
+
 ### Command-line flags
 ```bash
 # Quick scan (processes + registry)
