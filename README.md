@@ -44,7 +44,7 @@ All signatures are sourced from verified security vendors including Malwarebytes
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/adware-scanner.git
+git clone https://github.com/wilshwez/adware-scanner.git
 cd adware-scanner
 
 # Install optional dependencies (scanner works without them, features degrade gracefully)
