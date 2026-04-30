@@ -1,4 +1,4 @@
-# 🛡️ Advanced Adware & Browser Hijacker Scanner v3.0
+# Advanced Adware & Browser Hijacker Scanner v3.0
 
 A fully functional, cross-platform adware and browser hijacker scanner with auto-remediation, written in pure Python. No antivirus subscription required.
 
